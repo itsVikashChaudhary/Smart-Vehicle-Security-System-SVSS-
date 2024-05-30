@@ -36,3 +36,4 @@ Feel free to fork, star, and explore the code. Contributions and feedback are we
 
 Let's make driving safer and smarter! 🚦🌟
 **Video link :**
+https://www.linkedin.com/posts/vikash-chaudhary-663b23216_iot-smartvehicle-vehiclesafety-activity-7201858967239618560-rKLy?utm_source=share&utm_medium=member_desktop
